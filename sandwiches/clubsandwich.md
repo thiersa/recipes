@@ -1,10 +1,10 @@
-Clubsandwich
+# Clubsandwich
 
 - Persons: 1
 - Prep time: 10 min
 - Skill: easy
 
-Ingredients:
+**Ingredients:**
 
 - 4 thin slices of (smoked) bacon
 - 3 slices of chicken or turkey breast
@@ -15,7 +15,7 @@ Ingredients:
 - a few salad leaves
 - a handful of potato chips, if preferred
 
-Instructions:
+**Instructions:**
 
 1. Spread the mayonnaise on two slices of bread
 2. Spread the boiled egg slices on one of the bread slice

@@ -1,11 +1,11 @@
-Cupcake
+# Cupcake
 
 - Pieces: 12
 - Prep time: 15 min
 - Bake time: 25 min
 - Skill: easy
 
-Ingredients:
+**Ingredients:**
 
 - 150g unsalted butter, softened
 - 150g caster sugar
@@ -15,7 +15,7 @@ Ingredients:
 - 4 tablespoons milk
 - 12-hole muffin tin, lined with paper cases
 
-Instructions:
+**Instructions:**
 
 1. Set the oven to 190℃
 2. Beat the butter in a bowl until softened.
