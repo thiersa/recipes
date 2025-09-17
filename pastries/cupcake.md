@@ -1,5 +1,7 @@
 # Cupcake
 
+![Cupcakes](pastries/cupcakes.jpg){ width=300px }
+
 - Pieces: 12
 - Prep time: 15 min
 - Bake time: 25 min

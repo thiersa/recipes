@@ -1,5 +1,7 @@
 # Fried Eggs
 
+![Fried Eggs](breakfast/fried-eggs.jpg){ width=300px }
+
 - Persons: 1
 - Prep time: 4 min
 - Cook time: 3 min

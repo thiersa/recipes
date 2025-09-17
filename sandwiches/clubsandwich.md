@@ -1,5 +1,7 @@
 # Clubsandwich
 
+![Clubsandwich](sandwiches/clubsandwich.jpg){ width=300px }
+
 - Persons: 1
 - Prep time: 10 min
 - Skill: easy
